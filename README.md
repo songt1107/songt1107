@@ -66,7 +66,7 @@
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/dbeaver-#382923?style=flat-square&logo=dbeaver&logoColor=white">
+        <img src="https://img.shields.io/badge/DBeaver-#382923?style=flat-square&logo=DBeaver&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 </div>
