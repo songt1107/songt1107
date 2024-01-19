@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songt1107&show_icons=true&theme=radical)
 
 <!--
 **songt1107/songt1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
