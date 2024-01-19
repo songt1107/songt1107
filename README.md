@@ -26,7 +26,7 @@
   <img width="130px" src="https://github.com/kdhleppa/finalProject/assets/139316047/282b8fc0-024d-40b6-8423-a537c02e44b5">&nbsp;&nbsp;&nbsp;
   <img width="75px" src="https://github.com/kdhleppa/finalProject/assets/139316047/dc2bb3c4-7c32-4962-bbae-45067b5274b4">&nbsp;&nbsp;&nbsp;
   <img width="130px" src="https://github.com/kdhleppa/finalProject/assets/139316047/50ea0208-dfc3-407c-8413-cab62cbaa4ac">&nbsp;&nbsp;&nbsp;
-  <img width="150px" src="https://github.com/kdhleppa/finalProject/assets/139316047/aa55fb3c-7dd8-4e8f-a2b6-9e6232a7e832">&nbsp;&nbsp;&nbsp;
+  <img width="150px" margin-bottom="30px" src="https://github.com/kdhleppa/finalProject/assets/139316047/aa55fb3c-7dd8-4e8f-a2b6-9e6232a7e832">&nbsp;&nbsp;&nbsp;
   <img width="75px" src="https://github.com/kdhleppa/finalProject/assets/139316047/d48367f5-2c94-4eb5-8ded-f92f0123df6f">&nbsp;&nbsp;&nbsp;
 </p>
 
