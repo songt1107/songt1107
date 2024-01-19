@@ -3,13 +3,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songt1107&show_icons=true&theme=radical)
 
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
+    <a href="https://velog.io/@songt/posts">
         <img src="https://img.shields.io/badge/
         Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-    <a href="https://li-yo.tistory.com">
+    <a href="https://github.com/songt1107">
         <img src="https://img.shields.io/badge/
-        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+        GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"> 
     </a>
   
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
