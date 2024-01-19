@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songt)](https://github.com/songt/velog-readme-stats)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
 </div><br>
 
