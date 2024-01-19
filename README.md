@@ -23,6 +23,9 @@
 </div>
 <br>
 
+## ⚡Project⚡
+<a href="mailto:songt1107@gmail.com">
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@songt">
