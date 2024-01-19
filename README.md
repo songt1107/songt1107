@@ -21,7 +21,7 @@
     </a>
   
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=songt)](https://github.com/songt/velog-readme-stats)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=songt&theme=default)](https://songt1107.tistory.com/)
 </div><br>
 
 ## 📞 Contact 📞
