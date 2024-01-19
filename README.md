@@ -24,7 +24,7 @@
 <br>
 
 ## ⚡Project⚡
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=150&section=header&text='CamPlexProject'&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=80&section=header&text='CamPlexProject'&fontSize=20" />
 
 ><a href="https://github.com/kdhleppa/finalProject">Repository 이동</a>
 
