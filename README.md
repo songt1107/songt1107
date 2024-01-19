@@ -19,7 +19,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbi-sz&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 ![Songt's GitHub stats](https://github-readme-stats.vercel.app/api?username=songt1107&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
- 
+
+</div>
 <br>
 
 ## 💻 DEV's log 💻
