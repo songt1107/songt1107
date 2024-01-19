@@ -13,7 +13,7 @@
   <img width="79px" src="https://github.com/kdhleppa/finalProject/assets/139316047/24306b97-7998-4b45-95a8-220449a0dcc1">&nbsp;&nbsp;&nbsp;
   <img width="75px" src="https://github.com/kdhleppa/finalProject/assets/139316047/8ca3f900-50ec-4820-b9b3-80012a70d980">&nbsp;&nbsp;&nbsp;
   <img width="120px" src="https://github.com/kdhleppa/finalProject/assets/139316047/c10f6454-5e2a-44f7-b3dc-172d5edb90a4">&nbsp;&nbsp;&nbsp;
-  <img width="75px" src="https://github.com/kdhleppa/finalProject/assets/139316047/7bf50e52-dbb7-4e1d-9cb2-e9d431329a5f">&nbsp;&nbsp;&nbsp;
+  <img width="75px" margin-bottom="30px" src="https://github.com/kdhleppa/finalProject/assets/139316047/7bf50e52-dbb7-4e1d-9cb2-e9d431329a5f">&nbsp;&nbsp;&nbsp;
   <img width="75px" src="https://github.com/kdhleppa/finalProject/assets/139316047/3dfe7530-7c5b-468d-9daa-ac92b3d70622">&nbsp;&nbsp;&nbsp;
 </p>
 
