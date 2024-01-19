@@ -23,8 +23,7 @@
 </div>
 <br>
 
-## ⚡Project⚡
-<a href="mailto:songt1107@gmail.com">
+## ⚡<a href="https://github.com/kdhleppa/finalProject">Project</a>⚡
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
