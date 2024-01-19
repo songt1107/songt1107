@@ -39,7 +39,6 @@
 
 <br>
 
->Language & Framework
 <p>
   <img width="75px" src="https://github.com/kdhleppa/finalProject/assets/139316047/ddc4b631-cd89-4305-b5f9-a94c759b5cc9">&nbsp;&nbsp;&nbsp;
   <img width="72px" src="https://github.com/kdhleppa/finalProject/assets/139316047/d09762e0-0973-4e6c-ba81-525898aee795">&nbsp;&nbsp;&nbsp;
@@ -52,7 +51,6 @@
 
 <br>
 
->Tools
 <p>
   <img width="75px" src="https://github.com/kdhleppa/finalProject/assets/139316047/404401a9-11ec-4c3c-8a84-9028e3b95d82">&nbsp;&nbsp;&nbsp;
   <img width="75px" src="https://github.com/kdhleppa/finalProject/assets/139316047/633efc8e-8c90-42bf-9cda-2c4defb33a4c">&nbsp;&nbsp;&nbsp;
@@ -65,7 +63,6 @@
 
 <br>
 
->API
 <p>
   <img width="100px" src="https://github.com/kdhleppa/finalProject/assets/139316047/a2cd2ac7-ba56-4adb-a314-e0673735e955">&nbsp;&nbsp;&nbsp;
   <img width="85px" src="https://github.com/kdhleppa/finalProject/assets/139316047/9f3f81bc-0038-4c70-acad-e56b4985c38b">&nbsp;&nbsp;&nbsp;
