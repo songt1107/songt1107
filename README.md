@@ -24,6 +24,14 @@
 <br>
 
 ## ⚡<a href="https://github.com/kdhleppa/finalProject">Project</a>⚡
+# CamPlexProject
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=150&section=header&text='CamPlexProject'&fontSize=20" />
+
+<br>
+
+>Repository 이동
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
