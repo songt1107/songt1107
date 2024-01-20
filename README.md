@@ -26,6 +26,7 @@
 ## ⚡Project⚡
 ![크기변환 mainpage](https://github.com/kdhleppa/finalProject/assets/139315831/0ad8ff18-0b49-4f4a-b634-47b83c00da40)
 ><a href="https://github.com/kdhleppa/finalProject">Repository 이동</a>
+><a href="https://docs.google.com/presentation/d/1OdZXNPq0dGdqBO9TfRIYxDsI80oj3HoOVrlO4-N58SU/edit#slide=id.g2a7ea1e2241_1_0">PPT 이동</a>
 
 <br><br>
 ## 💻 DEV's log 💻
