@@ -24,7 +24,7 @@
 <br>
 
 ## ⚡Project⚡
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header&text='Camplex'&fontSize=25" />
+![크기변환 mainpage](https://github.com/kdhleppa/finalProject/assets/139315831/0ad8ff18-0b49-4f4a-b634-47b83c00da40)
 ><a href="https://github.com/kdhleppa/finalProject">Repository 이동</a>
 
 <br><br>
