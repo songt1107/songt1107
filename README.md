@@ -24,7 +24,7 @@
 <br>
 
 ## ⚡Project⚡
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header&text=캠핑 렌탈 예약사이트&fontSize=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header&text='Camplex'&fontSize=25" />
 ><a href="https://github.com/kdhleppa/finalProject">Repository 이동</a>
 
 <br><br>
