@@ -29,14 +29,10 @@
 
 ><a href="https://github.com/kdhleppa/semi_project/tree/development">Repository 이동</a>
 
-><a href="https://docs.google.com/presentation/d/1ccGc-48zSZKkp_8VGtDbCDgvTlPDLmR_Eq93VWGzJvE">PPT 이동</a>
-
 ✨Final
 ![크기변환 mainpage](https://github.com/kdhleppa/finalProject/assets/139315831/0ad8ff18-0b49-4f4a-b634-47b83c00da40)
 
 ><a href="https://github.com/kdhleppa/finalProject">Repository 이동</a>
-
-><a href="https://docs.google.com/presentation/d/1OdZXNPq0dGdqBO9TfRIYxDsI80oj3HoOVrlO4-N58SU">PPT 이동</a>
 
 <br><br>
 ## 💻 DEV's log 💻
