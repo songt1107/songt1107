@@ -24,19 +24,19 @@
 <br>
 
 ## ⚡Project⚡
-✨Final
-![크기변환 mainpage](https://github.com/kdhleppa/finalProject/assets/139315831/0ad8ff18-0b49-4f4a-b634-47b83c00da40)
-
-><a href="https://github.com/kdhleppa/finalProject">Repository 이동</a>
-
-><a href="https://docs.google.com/presentation/d/1OdZXNPq0dGdqBO9TfRIYxDsI80oj3HoOVrlO4-N58SU">PPT 이동</a>
-
 ✨Semi
 ![image](https://github.com/songt1107/songt1107/assets/139315798/f19fad8d-d268-442e-9336-c0f55bb8fd8c)
 
 ><a href="https://github.com/kdhleppa/semi_project/tree/development">Repository 이동</a>
 
 ><a href="https://docs.google.com/presentation/d/1ccGc-48zSZKkp_8VGtDbCDgvTlPDLmR_Eq93VWGzJvE">PPT 이동</a>
+
+✨Final
+![크기변환 mainpage](https://github.com/kdhleppa/finalProject/assets/139315831/0ad8ff18-0b49-4f4a-b634-47b83c00da40)
+
+><a href="https://github.com/kdhleppa/finalProject">Repository 이동</a>
+
+><a href="https://docs.google.com/presentation/d/1OdZXNPq0dGdqBO9TfRIYxDsI80oj3HoOVrlO4-N58SU">PPT 이동</a>
 
 <br><br>
 ## 💻 DEV's log 💻
