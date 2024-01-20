@@ -28,8 +28,6 @@
 
 ><a href="https://github.com/kdhleppa/finalProject">Repository 이동</a>
 
-<br>
-
 ><a href="https://docs.google.com/presentation/d/1OdZXNPq0dGdqBO9TfRIYxDsI80oj3HoOVrlO4-N58SU/edit#slide=id.g2a7ea1e2241_1_0">PPT 이동</a>
 
 <br><br>
